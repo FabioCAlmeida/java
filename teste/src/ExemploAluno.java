@@ -35,7 +35,7 @@ public class ExemploAluno {
         estudante2.idade = 19;
 
 
-        System.out.println("");
+        System.out.println(" ");
 
 
         System.out.println("O nome do aluno é: " + estudante2.nome);
